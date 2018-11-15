@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/ColumnTemplateSelectorExample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/ColumnTemplateSelectorExample/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/ColumnTemplateSelectorExample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ColumnTemplateSelectorExample/MainPage.xaml.vb))
+* [MainWindow.xaml](./CS/ColumnTemplateSelectorExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ColumnTemplateSelectorExample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/ColumnTemplateSelectorExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/ColumnTemplateSelectorExample/MainWindow.xaml))
+* [ViewModel.cs](./CS/ColumnTemplateSelectorExample/ViewModel.cs) (VB: [ViewModel.vb](./VB/ColumnTemplateSelectorExample/ViewModel.vb))
+<!-- default file list end -->
 # How to automatically generate columns with predefined settings (MVVM)
 
 
