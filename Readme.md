@@ -57,7 +57,7 @@ public string City { get; set; }
 
 
 <p>As a result, when the Grid Control creates a column, the ColumnTemplateSelector object specified via the grid's ColumnGeneratorTemplateSelector property returns the predefined column template based on <em>ColumnGeneratorTemplateNameAttribute</em> applied to the data field. If this attribute is not applied, the grid creates a column with default settings.</p>
-<p><br><br>To learn more on how to implement similar functionality in Silverlight, refer to the <a href="https://www.devexpress.com/Support/Center/p/T246737">T246737</a> example.</p>
+
 
 <br/>
 
